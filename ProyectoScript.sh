@@ -18,6 +18,6 @@ echo "\033[33mPor ultimo se instala la extensión de python para VS Code con el 
 echo "\033[31mcode -- install-extension ms-python.python\n\033[00m"
 code --install-extension ms-python.python
 echo "\033[33mAbrimos VS Code con el comando: \033[00m"
-echo "\033[31code\n\033[00m"
+echo "\033[31mcode\n\033[00m"
 code
 exit
